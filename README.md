@@ -69,6 +69,8 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
 All four are real renders of this app, taken at 1280×800.
 
+Round 3 rebuilt the guide from scratch and re-took all four screenshots from the new code.
+
 ## License
 
 MIT — see `LICENSE`.
