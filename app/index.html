@@ -34,7 +34,16 @@
 <main id="main">
   <section id="viewChecklist" class="view">
     <div class="controls" aria-label="Checklist controls">
-      <label class="search">Search <input id="search" type="search" placeholder="Trophy, mission or keyword…" autocomplete="off"></label>
+      <label class="search search-big">Search all 55 trophies — name, description or guide text
+        <input id="search" type="search" placeholder="Try “vault”, “meditation”, “stunt”… — filters the list as you type" autocomplete="off">
+      </label>
+    </div>
+    <section class="nextup" id="nextUp" aria-label="Next up">
+      <h2>Next up — what to earn next</h2>
+      <p class="nextup-sub">Missable trophies first, then the earliest unfinished roadmap stage, in order. Earned trophies are skipped.</p>
+      <ol class="nextup-list" id="nextUpList"></ol>
+    </section>
+    <div class="controls" aria-label="Checklist filters">
       <label>Grade
         <select id="gradeFilter">
           <option value="all">All grades</option>
@@ -76,6 +85,10 @@
   <section id="viewRoadmap" class="view" hidden>
     <h2>Roadmap to the platinum — 3 stages, about 200–300 hours</h2>
     <p class="lede">PowerPyx estimates about 200 hours to platinum; Push Square says 300 or more. This guide plans for 200–300. There are no difficulty settings, no mission gold medals, and no mission replay — so keep a manual save at the start and end of each chapter (15 manual slots, 1 autosave). Cheats disable trophies and saving.</p>
+    <div class="roadmap-progress" id="roadmapProgress">
+      <div class="progress-text"><strong id="roadmapCount">0 / 55 earned</strong><span id="roadmapPct">0% to platinum</span></div>
+      <div class="bar"><div id="roadmapFill"></div></div>
+    </div>
     <div class="stages" id="roadmapStages"></div>
   </section>
   <section id="viewMissables" class="view" hidden>

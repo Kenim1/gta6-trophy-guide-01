@@ -15,11 +15,16 @@
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
 // Built in this session: the guide itself is app/ (55 cited trophy guides, roadmap, missables,
-// checklist tracker). This program only hands it in, unchanged in shape from the starter's
-// plumbing: copy app/ + screenshots/ to the output dir and write dossier.json with the
-// vendored library, so the dossier the scorer rebuilds matches byte for byte. The program
-// takes no input besides this directory and the output dir, so two runs write identical bytes:
-// run it twice to two directories and compare dossier.json if you want to check that yourself.
+// checklist tracker). Round 2 adds a Next-up planner, per-trophy notes, per-stage roadmap progress,
+// a live search box, and a compact detail pane with a short guide plus sources. Every short guide
+// is at most 240 characters, so guide plus sources fits in an 800 px-tall view without scrolling,
+// and the four screenshots were retaken from the round-2 code (cover, roadmap, missables, and a
+// live search for "vault" with a trophy guide open). This program only
+// hands it in, unchanged in shape from the starter's plumbing: copy app/ + screenshots/ to the
+// output dir and write dossier.json with the vendored library, so the dossier the scorer rebuilds
+// matches byte for byte. The program takes no input besides this directory and the output dir, so
+// two runs write identical bytes: run it twice to two directories and compare dossier.json if you
+// want to check that yourself.
 import { cpSync, existsSync, mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';

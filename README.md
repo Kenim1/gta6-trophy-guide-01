@@ -12,6 +12,16 @@ Entry for the [make.fun bounty “Build the best GTA 6 trophy guide”](https://
 
 - `app/index.html` + `app/style.css` + `app/app.js` — the guide itself: checklist, detail pane, roadmap and missables views, hash-routed (`#/`, `#/trophy/<id>`, `#/roadmap`, `#/missables`). Dark “Leonida night” look of our own; no Rockstar logo or artwork, no network requests at run time.
 - `app/data/trophies.json` — the official 55-trophy list (frozen 2026-11-18) with, per trophy, a guide in our own words, a `sources` field, a `kind` (story / missable / collectible / activity), a `missable` flag and a roadmap `stage` (1 story, 2 100%-checklist, 3 cleanup).
+
+## Round 2 — what to do next, not just what exists
+
+Round 1 was a good checklist; round 2 turns it into a planner:
+
+- **Next up** — a section at the top of the checklist that recommends the next trophies to earn: the missable one first (“Do this now — missable in Chapter 1”), then the earliest unfinished roadmap stage in order, skipping earned trophies, with a reason line per suggestion. Click a suggestion to open its guide.
+- **Search** — a prominent search box at the top of the checklist that filters trophies live by name, description, guide text or sources as you type (`?q=` pre-fills it).
+- **Per-trophy notes** — a notes field in every trophy’s detail pane, saved in localStorage, shown with a “✎ note” flag in the list, and included in export/import.
+- **Roadmap progress** — the roadmap page now shows earned/total and a progress bar per stage, plus overall platinum progress.
+- **Compact detail pane** — each trophy now has a short guide (`guide_short` in the data) shown first with a “Read the full guide” toggle, a larger grade badge, compact sources and progress visible, so guide + sources fit in an 800 px-tall view without scrolling.
 - `screenshots/` — four real renders of this app in desktop Chrome at 1280×800 (see `shots.json`).
 - `main.ts` — hands the entry in: copies `app/` and `screenshots/` to the output dir and writes `output/dossier.json` with the vendored make.fun library.
 

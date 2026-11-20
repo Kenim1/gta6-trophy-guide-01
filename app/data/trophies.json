@@ -2,7 +2,7 @@
  "game": "Grand Theft Auto VI",
  "platform": "PlayStation 5",
  "list": "the official 55 trophies, 2026-11-18",
- "note": "Names, descriptions and grades are the official PlayStation list. Every guide below is written in our own words for this entry; the sources field names where each fact was checked. PowerPyx and Push Square agree on the counts used here (55 trophies, 18 meditation spots, 397 stunts, 42 shooting-range challenges, 14 drone races, 18 card sets, 80 challenges, 8 garages, 9 gangs, 8 bank vaults). They disagree on total time: PowerPyx estimates about 200 hours to platinum, Push Square 300 or more, so this guide says 200-300 hours.",
+ "note": "Names, descriptions and grades are the official PlayStation list. Every guide below is written in our own words for this entry; the sources field names where each fact was checked. PowerPyx and Push Square agree on the counts used here (55 trophies, 18 meditation spots, 397 stunts, 42 shooting-range challenges, 14 drone races, 18 card sets, 80 challenges, 8 garages, 9 gangs, 8 bank vaults). They disagree on total time: PowerPyx estimates about 200 hours to platinum, Push Square 300 or more, so this guide says 200-300 hours. Round 2 adds guide_short: a 1-2 sentence condensed guide per trophy for the compact detail pane; the full guide stays in guide.",
  "trophies": [
   {
    "id": 1,
@@ -13,7 +13,12 @@
    "missable": false,
    "stage": 3,
    "guide": "This is the platinum: it unlocks automatically once the other 54 trophies are earned, so there is nothing extra to do for it. Work through the three roadmap stages in order — story first, then the 100% checklist, then cleanup — and this pops at the end. Expect the whole hunt to take roughly 200-300 hours; the two guides we checked disagree on the exact figure, PowerPyx saying about 200 and Push Square 300 or more.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "This is the platinum: it unlocks automatically once the other 54 trophies are earned, so there is nothing extra to do for it."
   },
   {
    "id": 2,
@@ -24,7 +29,12 @@
    "missable": false,
    "stage": 1,
    "guide": "Play the opening mission, Gone Fishing, to the end and the trophy unlocks as part of the story. It cannot be missed: every playthrough starts here. Just follow the mission prompts and enjoy the introduction to Leonida.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Play the opening mission, Gone Fishing, to the end and the trophy unlocks as part of the story. It cannot be missed: every playthrough starts here. Just follow the mission prompts and enjoy the introduction to Leonida."
   },
   {
    "id": 3,
@@ -35,7 +45,12 @@
    "missable": false,
    "stage": 1,
    "guide": "Finish every main mission in Chapter 1 and this unlocks when the chapter closes. It is automatic story progress, so it cannot be missed. Keep a manual save at the start of each chapter, since there is no mission replay — that protects the one missable meditation in Chapter 1, not this trophy.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Finish every main mission in Chapter 1 and this unlocks when the chapter closes. It is automatic story progress, so it cannot be missed."
   },
   {
    "id": 4,
@@ -46,7 +61,12 @@
    "missable": false,
    "stage": 1,
    "guide": "Complete Chapter 2's main missions and the trophy pops when the chapter ends. It is automatic and cannot be missed. Chapter 2 is also where you first get to switch between Jason and Lucia freely, which opens up the partner trophies later.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Complete Chapter 2's main missions and the trophy pops when the chapter ends. It is automatic and cannot be missed. Chapter 2 is also where you first get to switch between Jason and Lucia freely, which opens up the partner trophies later."
   },
   {
    "id": 5,
@@ -57,7 +77,12 @@
    "missable": false,
    "stage": 1,
    "guide": "Play through Chapter 3's main missions to the end; the trophy unlocks automatically when the chapter closes. Nothing here can be missed. Several systems that later trophies need — the Key Cloner, jewelry robberies, Randy's wish list — are introduced during this chapter, so do the story missions as they appear.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Play through Chapter 3's main missions to the end; the trophy unlocks automatically when the chapter closes. Nothing here can be missed."
   },
   {
    "id": 6,
@@ -68,7 +93,12 @@
    "missable": false,
    "stage": 1,
    "guide": "Finish Chapter 4's main missions and this pops when the chapter ends. It is automatic story progress and cannot be missed. By now the big robbery systems are open, so the cleanup trophies tied to bank vaults and armored trucks become available.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Finish Chapter 4's main missions and this pops when the chapter ends. It is automatic story progress and cannot be missed."
   },
   {
    "id": 7,
@@ -79,7 +109,12 @@
    "missable": false,
    "stage": 1,
    "guide": "Complete the game's final mission and this gold trophy unlocks. It is automatic and cannot be missed. Finishing the story also unlocks the 100% Completion checklist and free-roam, which is where the long second stage of the platinum hunt begins.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Complete the game's final mission and this gold trophy unlocks. It is automatic and cannot be missed."
   },
   {
    "id": 8,
@@ -90,7 +125,12 @@
    "missable": false,
    "stage": 1,
    "guide": "Play the main mission Breakfast Run in Chapter 2 to the end; the trophy is automatic story progress. It cannot be missed. There are no gold-medal objectives on story missions, so just finish the mission however you like.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Play the main mission Breakfast Run in Chapter 2 to the end; the trophy is automatic story progress. It cannot be missed. There are no gold-medal objectives on story missions, so just finish the mission however you like."
   },
   {
    "id": 9,
@@ -101,7 +141,12 @@
    "missable": false,
    "stage": 1,
    "guide": "Complete the main mission The Cartel Heist in Chapter 3; the trophy unlocks when the mission ends. It is automatic and cannot be missed. Heist missions are story-gated, so there is no way to do this one early or skip it.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Complete the main mission The Cartel Heist in Chapter 3; the trophy unlocks when the mission ends. It is automatic and cannot be missed. Heist missions are story-gated, so there is no way to do this one early or skip it."
   },
   {
    "id": 10,
@@ -112,7 +157,12 @@
    "missable": false,
    "stage": 1,
    "guide": "Finish the main mission Child's Play in Chapter 4; the trophy pops at the end of the mission. It is automatic story progress and cannot be missed. Keep playing the main path and it will come to you.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Finish the main mission Child's Play in Chapter 4; the trophy pops at the end of the mission. It is automatic story progress and cannot be missed. Keep playing the main path and it will come to you."
   },
   {
    "id": 11,
@@ -123,7 +173,12 @@
    "missable": false,
    "stage": 1,
    "guide": "Complete the main mission Headliners in Chapter 4; the trophy unlocks when the mission ends. It is automatic and cannot be missed. No special objective is needed — finishing the mission is enough.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Complete the main mission Headliners in Chapter 4; the trophy unlocks when the mission ends. It is automatic and cannot be missed. No special objective is needed — finishing the mission is enough."
   },
   {
    "id": 12,
@@ -134,7 +189,12 @@
    "missable": false,
    "stage": 1,
    "guide": "Finish the main mission VCIA Takedown in Chapter 4; the trophy pops at the mission's end. It is automatic story progress and cannot be missed. The airport setting here is a good preview of the free-roam plane trophy at VCIA later.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Finish the main mission VCIA Takedown in Chapter 4; the trophy pops at the mission's end. It is automatic story progress and cannot be missed. The airport setting here is a good preview of the free-roam plane trophy at VCIA later."
   },
   {
    "id": 13,
@@ -145,7 +205,12 @@
    "missable": false,
    "stage": 1,
    "guide": "Complete the main mission Operation Savage Glory; the trophy unlocks when it ends. It is automatic story progress and cannot be missed. This is one of the last big story missions, so the endgame and free-roam cleanup follow soon after.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Complete the main mission Operation Savage Glory; the trophy unlocks when it ends. It is automatic story progress and cannot be missed. This is one of the last big story missions, so the endgame and free-roam cleanup follow soon after."
   },
   {
    "id": 14,
@@ -156,9 +221,13 @@
    "missable": false,
    "stage": 2,
    "guide": "Open the 100% Completion checklist (Touchpad, then Progress, then Stats, then 100% Completion) after finishing the story and work through it. The name overstates it: both guides agree you only need roughly 60% of the game's true content — for example any 200 of 277 base vehicles scanned, any 100 of 255 animals studied, any 15 of 18 card sets, and any 70 of 80 challenges. Progress made during the story already counts, and nothing on the checklist is missable, so this is a long grind, not a race.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
-  }
-,
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Open the 100% Completion checklist (Touchpad, then Progress, then Stats, then 100% Completion) after finishing the story and work through it."
+  },
   {
    "id": 15,
    "name": "Cunning Stunts",
@@ -168,7 +237,12 @@
    "missable": false,
    "stage": 2,
    "guide": "Complete any 250 of the 397 stunts in Leonida; the 100% checklist wants 300, so this pops on the way there. Stunts come in four kinds — 130 stunt jumps, 202 under-the-bridge flights, 40 knife flights and 25 base jumps — and you can mix them freely. Both guides agree under-the-bridge flights are the quickest to rack up. Track them on the map under Exploration, then Stunt Spots, or under Progress, then Activities, then Stunts.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Complete any 250 of the 397 stunts in Leonida; the 100% checklist wants 300, so this pops on the way there."
   },
   {
    "id": 16,
@@ -179,7 +253,12 @@
    "missable": false,
    "stage": 3,
    "guide": "Try each of the 9 activity types once: fishing, hunting, golf, shooting ranges, pool, basketball, playing a video game, winning a race of some kind, and performing a stunt. Check your count under Touchpad, then Progress, then Activities. You will meet most of them naturally through the story and the other trophies, so this usually pops on its own — if one is missing, open the map's Activities filter (the blue dumbbell icon) and go try the one you have not done.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Try each of the 9 activity types once: fishing, hunting, golf, shooting ranges, pool, basketball, playing a video game, winning a race of some kind, and performing a stunt. Check your count under Touchpad, then Progress, then Activities."
   },
   {
    "id": 17,
@@ -190,7 +269,12 @@
    "missable": false,
    "stage": 2,
    "guide": "Earn a gold medal in all 42 Shooting Range challenges, across the two ranges both guides name: Rodgers Ranch & Shooting Range in Port Gellhorn and Griffin Shooting Range in Balsero. Find them on the map under Activities, then Shooting Ranges, and track progress the same way. Most challenges have three difficulty tiers, and some stay locked until you meet their conditions, so work through them as they open up.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Earn a gold medal in all 42 Shooting Range challenges, across the two ranges both guides name: Rodgers Ranch & Shooting Range in Port Gellhorn and Griffin Shooting Range in Balsero."
   },
   {
    "id": 18,
@@ -201,7 +285,12 @@
    "missable": false,
    "stage": 2,
    "guide": "Win a Top Fun drone race at all 14 locations; there are 42 drone races in total across them, and some charge an entry fee. Find the locations on the map under Activities, then Drones, then Top Fun Drones. You only need one win per location, not every race at each spot, so move on as soon as a location is ticked off.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Win a Top Fun drone race at all 14 locations; there are 42 drone races in total across them, and some charge an entry fee. Find the locations on the map under Activities, then Drones, then Top Fun Drones."
   },
   {
    "id": 19,
@@ -212,7 +301,12 @@
    "missable": false,
    "stage": 3,
    "guide": "Win 20 different races — replaying the same race does not count, each win has to be at a new location. Track them under Touchpad, then Progress, then Activities, then Racing. Most race spots let you hire a car, and if you bring your own, mind its rating; buying upgrades at Mod Shops raises it. Pick the short, easy races first and save the hard ones for later.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Win 20 different races — replaying the same race does not count, each win has to be at a new location. Track them under Touchpad, then Progress, then Activities, then Racing."
   },
   {
    "id": 20,
@@ -223,7 +317,12 @@
    "missable": false,
    "stage": 3,
    "guide": "After you meet Cal in the Chapter 1 mission Feng Shui, he will text you about a fishing challenge: catch a parrotfish over 2 kg at the marked spot west of Key Lento. Fish in the marked area from a boat with a rod until you land one big enough. You can hijack a boat nearby if you do not own one yet.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "After you meet Cal in the Chapter 1 mission Feng Shui, he will text you about a fishing challenge: catch a parrotfish over 2 kg at the marked spot west of Key Lento."
   },
   {
    "id": 21,
@@ -234,7 +333,11 @@
    "missable": false,
    "stage": 3,
    "guide": "Finish all the levels of any one of the four arcade games (called Video Games in-game): Tenebrae Lux, Street Trash III, Time Jackers Rewind, or Bang For Your Buck. The first three are playable on the TV at home from Chapter 1, while Bang For Your Buck is on arcade machines around the world. You only need to reach the end of one game, not beat every challenge inside it, so pick the one you enjoy most.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Finish all the levels of any one of the four arcade games (called Video Games in-game): Tenebrae Lux, Street Trash III, Time Jackers Rewind, or Bang For Your Buck."
   },
   {
    "id": 22,
@@ -245,7 +348,12 @@
    "missable": false,
    "stage": 1,
    "guide": "Finish Andy's five-quest storyline, which is Lucia-only and starts in Chapter 3 when Andy calls and texts her address in Belville. The quests run through the Cellerica initiation chain and end with the warehouse meet. All of Andy's quests stay available after the story, so nothing here can be missed — just follow the markers when they appear.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Finish Andy's five-quest storyline, which is Lucia-only and starts in Chapter 3 when Andy calls and texts her address in Belville. The quests run through the Cellerica initiation chain and end with the warehouse meet."
   },
   {
    "id": 23,
@@ -256,7 +364,12 @@
    "missable": false,
    "stage": 1,
    "guide": "Work through Kenton's treasure-diving quests: after the Chapter 1 mission Island Dreams he calls you, then marks shipwreck sites on the map and you dive for the treasure with a metal detector and bring it back to his shop in Key Lento. There are seven shipwrecks in total across his quest sets. Kenton goes quiet for a stretch of the story but comes back later, so this is not missable — track it under Progress, then Characters, then Kenton Rees.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Work through Kenton's treasure-diving quests: after the Chapter 1 mission Island Dreams he calls you, then marks shipwreck sites on the map and you dive for the treasure with a metal detector and bring it back to his shop in Key Lento."
   },
   {
    "id": 24,
@@ -267,7 +380,12 @@
    "missable": false,
    "stage": 1,
    "guide": "Complete Billy's five quests, starting at the Thrillbilly Mud Club in Kelly County after the Chapter 2 mission Coffee Break. The chain runs through the mud club jobs and ends with Hometown Heroes. All five stay available after the story, so this cannot be missed — do them whenever the markers show up.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Complete Billy's five quests, starting at the Thrillbilly Mud Club in Kelly County after the Chapter 2 mission Coffee Break. The chain runs through the mud club jobs and ends with Hometown Heroes."
   },
   {
    "id": 25,
@@ -278,7 +396,12 @@
    "missable": false,
    "stage": 2,
    "guide": "Complete 8 stranger mission strands in the open world — but note that not every side quest counts: the guides agree the questlines of Moses, Tyrone, Yasmani, Andy, Billy and Eddie do not count toward this one. Strands that do count include Kirk's skunk-ape hunt, Kyle's farm jobs, Yago's street races and Pilot Pete's deliveries. Strangers stay available after the story, so mop these up in the cleanup stage and watch the trophy tracker to see your count rise.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Complete 8 stranger mission strands in the open world — but note that not every side quest counts: the guides agree the questlines of Moses, Tyrone, Yasmani, Andy, Billy and Eddie do not count toward this one."
   },
   {
    "id": 26,
@@ -289,7 +412,12 @@
    "missable": false,
    "stage": 1,
    "guide": "Finish Randy's Wish List: after the Chapter 3 mission Clonin' Keys, Makin' GS you get the Key Cloner and deliver a Zorrusso to Randy, who then hands you a list of 16 sports cars to steal and deliver to his garage in west Vice City. Scan cars with the WAiNK app to check whether one is on the list, then drive it back in good condition for a better payout. The list stays open after the story, so it cannot be missed.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Finish Randy's Wish List: after the Chapter 3 mission Clonin' Keys, Makin' GS you get the Key Cloner and deliver a Zorrusso to Randy, who then hands you a list of 16 sports cars to steal and deliver to his garage in west Vice City."
   },
   {
    "id": 27,
@@ -300,7 +428,12 @@
    "missable": false,
    "stage": 1,
    "guide": "Finish Tyrone's Jason-only questline, which starts after the Chapter 3 mission Here, Kitty Kitty: destroy the Kitty Litter synthetic labs marked around Vice City, and once enough are gone Tyrone gives you the Spin On This mission to shut the labs down. Everything stays available after the story, so this cannot be missed.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Finish Tyrone's Jason-only questline, starting after the Chapter 3 mission Here, Kitty Kitty: destroy the Kitty Litter synthetic labs around Vice City, then Tyrone gives you the Spin On This mission to shut the labs down."
   },
   {
    "id": 28,
@@ -311,9 +444,13 @@
    "missable": true,
    "stage": 1,
    "guide": "Meditate at all 18 meditation spots across Leonida — and read the warning first, because this is the game's only potentially missable trophy. In Chapter 1, after the mission Down to Earth, talk to Lucia in the kitchen in the morning; she says she is going to meditate, walks to the balcony, and you must follow her and choose Accept. That balcony meditation is gone forever once you leave Chapter 1. Both guides flag the same catch: it is still unconfirmed whether that first meditation is actually required for the trophy, so do it anyway to be safe. The other spots can be done with either character (each counts double if both meditate there), and you cannot finish the last ones until both characters can play together after Coffee Break in Chapter 2. Track progress under Progress, then Collections, then Exploration, then Meditations.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
-  }
-,
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Meditate at all 18 meditation spots across Leonida — and read the warning first, because this is the game's only potentially missable trophy."
+  },
   {
    "id": 29,
    "name": "Fair Game",
@@ -323,7 +460,12 @@
    "missable": false,
    "stage": 2,
    "guide": "Do Bret Vogel's hunting quests, which start after Coffee Break in Chapter 2 when Bret texts Jason (Jason-only) and marks the first quest, Veteran Hunted, in Lummox County. Bret then marks hunting spots on the map and asks you to bring him the animals he requests. He gives you the unique hunting rifle Killtelligence SM-69 on the first quest; a clean one-shot kill keeps the animal pristine and pays more, but is not required. The questline stays available after the story, so it cannot be missed.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Do Bret Vogel's hunting quests, which start after Coffee Break in Chapter 2 when Bret texts Jason (Jason-only) and marks the first quest, Veteran Hunted, in Lummox County."
   },
   {
    "id": 30,
@@ -334,7 +476,12 @@
    "missable": false,
    "stage": 2,
    "guide": "Complete any 3 of the 18 collectible card sets found around Leonida. The 100% checklist needs 15 sets, so this silver pops early on the way to that bigger goal. Track your sets under Progress, then Collections, then Collectible Cards — and note that cards you sell at pawn shops still count toward your progress, so selling duplicates is safe.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Complete any 3 of the 18 collectible card sets found around Leonida. The 100% checklist needs 15 sets, so this silver pops early on the way to that bigger goal."
   },
   {
    "id": 31,
@@ -345,7 +492,12 @@
    "missable": false,
    "stage": 2,
    "guide": "Scan any 100 WAiNK locations with the WAiNK phone app (hold Up, then R1 while looking at a landmark, curiosity, sculpture or No Flusher tag). There are far more than 100 in the world — 31 landmarks, 35 curiosities and 23 sculptures, plus the tags — so just scan whatever you pass. Track the count under Progress, then Collections, then WAiNK Locations.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Scan any 100 WAiNK locations with the WAiNK phone app (hold Up, then R1 while looking at a landmark, curiosity, sculpture or No Flusher tag)."
   },
   {
    "id": 32,
@@ -356,7 +508,12 @@
    "missable": false,
    "stage": 2,
    "guide": "Complete any 50 of the game's 80 challenges; the 100% checklist needs 70, so this pops on the way. View them all under Progress, then Challenges, with a checkmark showing which are done. Many complete naturally while you chase other trophies, so leave the hard ones: with 30 to spare for the checklist and 10 to spare for this trophy, pick the easiest ones left.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Complete any 50 of the game's 80 challenges; the 100% checklist needs 70, so this pops on the way. View them all under Progress, then Challenges, with a checkmark showing which are done."
   },
   {
    "id": 33,
@@ -367,7 +524,12 @@
    "missable": false,
    "stage": 3,
    "guide": "With your partner beside you, build a 4-star wanted level and then escape the red heat zone completely. You can only do this after Coffee Break in Chapter 2, when you can call your partner (hold Right, then Triangle). The easiest escape both guides point to is a fast sports bike through the train tunnel north of Ambrosia in Kelly County, where cops and helicopters struggle to follow. The trophy pops when you leave the heat zone, not just the flashing search area — and it usually comes free while robbing the big bank vaults, which always trigger 4 stars.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "With your partner beside you, build a 4-star wanted level and then escape the red heat zone completely. You can only do this after Coffee Break in Chapter 2, when you can call your partner (hold Right, then Triangle)."
   },
   {
    "id": 34,
@@ -378,7 +540,12 @@
    "missable": false,
    "stage": 3,
    "guide": "With your partner with you, rob three shops in a row without ever losing your wanted level — you must stay wanted the whole time, in the flashing red/blue state rather than the full red heat level. Bring an armored vest, sticky bombs and healing items, and loot a couple of items in each shop (a safe in the back room helps it count). The three jewelry stores in north Vice City are a good run once they open after Yasmani's Jewelry Jobs in Chapter 3. The pop is delayed by about half a minute after leaving the third shop; if it does not fire, hit a fourth.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "With your partner with you, rob three shops in a row without ever losing your wanted level — you must stay wanted the whole time, in the flashing red/blue state rather than the full red heat level."
   },
   {
    "id": 35,
@@ -389,7 +556,12 @@
    "missable": false,
    "stage": 2,
    "guide": "Discover 100 different vehicles; scanning one with the WAiNK app is enough, you do not have to drive it. Stand on a busy road and scan everything passing by. There are 557 vehicles in the game and the 100% checklist needs 200 base models scanned, so this comes naturally early in that grind. Check your totals under Touchpad, then Progress, then Vehicles.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Discover 100 different vehicles; scanning one with the WAiNK app is enough, you do not have to drive it. Stand on a busy road and scan everything passing by."
   },
   {
    "id": 36,
@@ -400,7 +572,11 @@
    "missable": false,
    "stage": 3,
    "guide": "Kill or incapacitate 5 enemies inside one use of Combat Focus (L3 + R3 while aiming), which slows time and drains the purple focus bar. Eat or drink first to buff focus, and use Adrenaline to stretch the slow-time window; a full-auto assault rifle like the Duke 556 helps. Line up five enemies at a gang operation, wear body armor, and go for it — and note it does not seem to count against soldiers, police or civilians. Focus levels up as you play (shooting ranges, golf, pool, fishing and headshots all help), so this gets easier late in the game.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Kill or incapacitate 5 enemies inside one use of Combat Focus (L3 + R3 while aiming), which slows time and drains the purple focus bar."
   },
   {
    "id": 37,
@@ -411,7 +587,12 @@
    "missable": false,
    "stage": 3,
    "guide": "Steal one of the large passenger planes docked to a departure terminal at Vice City International Airport — the ones on the open airfield do not count, it must be connected to a boarding bridge. The easiest is at terminals E3/E4: drive through a fence, climb the stairs by the bridge, get in, go upstairs to the cockpit, reverse to the runway and take off. Fly at least 1 km (0.6 miles) away from the airport and the trophy pops, slightly delayed.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Steal one of the large passenger planes docked to a departure terminal at Vice City International Airport — the ones on the open airfield do not count, it must be connected to a boarding bridge."
   },
   {
    "id": 38,
@@ -422,7 +603,12 @@
    "missable": false,
    "stage": 3,
    "guide": "Steal a military tank — a Rhino — from Mile Zero Air Station, the island base on the south-west edge of the map in Mariana County, where the tanks stand in the south of the base. Drive through the gate (or take the stunt jump by the south-east entrance), climb in, and shoot enemies until the trophy pops. Expect heavy resistance on the way in, so bring armor and a fast approach vehicle.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Steal a military tank — a Rhino — from Mile Zero Air Station, the island base on the south-west edge of the map in Mariana County, where the tanks stand in the south of the base."
   },
   {
    "id": 39,
@@ -433,7 +619,12 @@
    "missable": false,
    "stage": 3,
    "guide": "First finish Yasmani's Jewelry Jobs in Chapter 3, which unlocks jewelry robberies and the Snap Gun for silently picking alarmed doors. Then enter a jewelry store through the back door using the Snap Gun (never kick the door), find the safe code on a note in the back room, loot the safe, and destroy the security footage and disable the alarm while you are there. Richardson Jewelry & Diamonds in Vice City is a good spot. The trophy pops shortly after you leave the store.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "First finish Yasmani's Jewelry Jobs in Chapter 3, which unlocks jewelry robberies and the Snap Gun for silently picking alarmed doors."
   },
   {
    "id": 40,
@@ -444,7 +635,12 @@
    "missable": false,
    "stage": 2,
    "guide": "Rob any 5 of the 8 large bank vaults and escape; the 100% checklist needs all 8, so this silver pops on the way. It starts with the Chapter 4 optional mission That's Where The Money Is: tail a security van to a bank, slip in while the vault is open, and bring your partner to carry a second bag of cash. After that, pay Yasmani $10,000 per tip to mark more security vans. Every vault robbery triggers a 4-star wanted level, so escape on a fast motorcycle and switch vehicles to shake the heat. Note: the official list grades this silver; one of the guides we checked lists it as bronze, and the official grade wins.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Rob any 5 of the 8 large bank vaults and escape; the 100% checklist needs all 8, so this silver pops on the way."
   },
   {
    "id": 41,
@@ -455,7 +651,12 @@
    "missable": false,
    "stage": 3,
    "guide": "Rob an armored truck and escape the heat. The simplest route is the same Chapter 4 mission as the bank vaults — tailing the truck to a bank counts as robbing it. Earlier, you can also stop a truck on the road near a bank, block it, plant a sticky bomb on its back door and blow it open, then escape the red heat radius (sticky bombs are in the back of Yasmani's shop once his quests are done). The trophy only pops after you have escaped, so keep driving until the heat clears.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Rob an armored truck and escape the heat. The simplest route is the same Chapter 4 mission as the bank vaults — tailing the truck to a bank counts as robbing it."
   },
   {
    "id": 42,
@@ -466,9 +667,13 @@
    "missable": false,
    "stage": 2,
    "guide": "Fully unfog the whole map of Leonida. The fastest way is by plane: fly over every black-fogged area until the map is entirely visible. Do this late, once you have a plane and the full map is open, and combine it with the stunt and vehicle-scanning grinds so the flights do double duty.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
-  }
-,
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Fully unfog the whole map of Leonida. The fastest way is by plane: fly over every black-fogged area until the map is entirely visible."
+  },
   {
    "id": 43,
    "name": "Pest Control",
@@ -478,7 +683,12 @@
    "missable": false,
    "stage": 2,
    "guide": "Rob one illegal operation for each of the 9 gangs; there are 39 operations in total, and the 100% checklist needs all of them, so this pops early in that grind. Operations show as yellow icons when you get near them, and many are marked automatically through story progress. Track each gang's count under Progress, then Gangs, and finish whichever gang is still at zero.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Rob one illegal operation for each of the 9 gangs; there are 39 operations in total, and the 100% checklist needs all of them, so this pops early in that grind."
   },
   {
    "id": 44,
@@ -489,7 +699,12 @@
    "missable": false,
    "stage": 3,
    "guide": "Go to the Ocean View Rooftop Bar on Ocean Beach, buy an Apple Martini, and drink it while standing next to the bar. That is the whole trophy — a quick, cheap one to tick off during cleanup. It is a small nod to the series' past, and it pops as soon as you finish the drink.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Go to the Ocean View Rooftop Bar on Ocean Beach, buy an Apple Martini, and drink it while standing next to the bar. That is the whole trophy — a quick, cheap one to tick off during cleanup."
   },
   {
    "id": 45,
@@ -500,7 +715,12 @@
    "missable": false,
    "stage": 3,
    "guide": "Steal the blue Banshee from the vehicle showroom in south Vice City and drive it straight out through the showroom window. You need the Key Cloner first, from the Chapter 3 mission Clonin' Keys, Makin' GS, to get into the car. Only this specific blue Banshee counts — a reference to the Banshee from GTA III — and the pop comes slightly delayed, after you drive away down the street.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Steal the blue Banshee from the vehicle showroom in south Vice City and drive it straight out through the showroom window. You need the Key Cloner first, from the Chapter 3 mission Clonin' Keys, Makin' GS, to get into the car."
   },
   {
    "id": 46,
@@ -511,7 +731,12 @@
    "missable": false,
    "stage": 3,
    "guide": "Steal all three key valuables at Kingpin Bowling in Port Gellhorn — the luxury watch in the south-east office, the unique Gutterball Moreland 850 shotgun on the table in the north-east corner, and the safe in the north-east hallway, which you blow open with sticky bombs bought at an Ammu-Nation. You first visit during the Chapter 2 optional mission Hit Kingpin Bowling, but this is not missable: if you leave anything behind, the robbery icon respawns after a while and you can go back for the rest. The trophy pops after you escape the police, not when you grab the third item.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Steal all three key valuables at Kingpin Bowling in Port Gellhorn: the luxury watch in the south-east office, the Gutterball Moreland 850 shotgun in the north-east corner, and safe in the north-east hallway, blown open with sticky bombs."
   },
   {
    "id": 47,
@@ -522,7 +747,12 @@
    "missable": false,
    "stage": 3,
    "guide": "Reach maximum strength with both Jason and Lucia at the same time. This only becomes possible after Coffee Break in Chapter 2, when you can switch between the two. Work out at fitness clubs (filter the map by Activities) and always bring your partner along — while one character trains, the other completes their training automatically, so you progress twice as fast. Check strength under Touchpad, then Jason & Lucia, then each character's Strength stat. You can also work out at home after the story.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Reach maximum strength with both Jason and Lucia at the same time. This only becomes possible after Coffee Break in Chapter 2, when you can switch between the two."
   },
   {
    "id": 48,
@@ -533,7 +763,12 @@
    "missable": false,
    "stage": 3,
    "guide": "Perform 500 actions that affect your criminal profile — the running count is visible by selecting this trophy in the trophy list. Turn on criminal profile notifications (Settings, then UI, then HUD Notifications, then Criminal Profile) so a small demon face appears whenever an action counts. Stealthy robberies, clean escapes and destroying evidence push you toward Professional; incapacitating enemies is Hardened; killing is Violent; mass killing is Psycho, and keep pushing and you can hit Irredeemable, which is permanent and makes cops shoot on sight. Almost every robbery and fight counts, so this usually finishes itself while you chase the other trophies.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Perform 500 actions that affect your criminal profile — the running count is visible by selecting this trophy in the trophy list."
   },
   {
    "id": 49,
@@ -544,7 +779,11 @@
    "missable": false,
    "stage": 3,
    "guide": "This trophy is still unconfirmed: the best current lead, from the guide we checked, is that it relates to the Payday Loans store from the prologue — possibly robbing it again later in a specific way — at its Vice City location in Little Cuba. Treat this one as a watch item: try revisiting the Payday Loans store after the story and robbing it a second time, and check community reports if it does not pop. We flag it as unconfirmed rather than guessing a method, because no source we checked has a verified unlock yet.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Still unconfirmed: the best current lead is that it relates to the Payday Loans store from the prologue — possibly robbing it again later in a specific way — at its Vice City location in Little Cuba."
   },
   {
    "id": 50,
@@ -555,7 +794,11 @@
    "missable": false,
    "stage": 3,
    "guide": "Complete the UFO easter egg: go alone, at night after 2 AM, to the road north-west of the Starlet Motel in Kelly County. Sometimes a blinking car is parked at the roadside — the spawn is slightly random, so drive away and come back if it is not there. When the car is there, follow the path into the woods toward the bright blue light in the sky, approach the UFO, and it drops a woman it abducted; talk to her, offer to help, and walk her back to her car at the roadside to pop the trophy.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Complete the UFO easter egg: go alone, at night after 2 AM, to the road north-west of the Starlet Motel in Kelly County."
   },
   {
    "id": 51,
@@ -566,7 +809,11 @@
    "missable": false,
    "stage": 3,
    "guide": "Ride any bike and kick 10 pedestrians with a melee attack (Square) within 60 seconds. Crowded spots like Vice City streets or Ocean Beach are the place to do it: keep moving through the crowd and kick as you pass people. The timer starts with the first kick, so line up a busy stretch before you begin.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Ride any bike and kick 10 pedestrians with a melee attack (Square) within 60 seconds. Crowded spots like Vice City streets or Ocean Beach are the place to do it: keep moving through the crowd and kick as you pass people."
   },
   {
    "id": 52,
@@ -577,7 +824,12 @@
    "missable": false,
    "stage": 2,
    "guide": "Launder a total of $250,000 in marked bills through a fence — the amount adds up across robberies, it does not have to be delivered at once. First finish the Chapter 3 mission Credit Check, which unlocks the Dye Pack Jammer you need to launder the bills. Then rob banks and Payday Loans, take the marked bills to a fence (Yasmani in Vice City pays the most), and repeat. Bank vaults alone can pay up to $205,000 in one robbery, so this finishes naturally during the vault grind.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Launder a total of $250,000 in marked bills through a fence — the amount adds up across robberies, it does not have to be delivered at once."
   },
   {
    "id": 53,
@@ -588,7 +840,12 @@
    "missable": false,
    "stage": 3,
    "guide": "Spend a total of $100,000 across all shop types — the total is cumulative across the whole game, so normal play already counts toward it. The fastest way to close the gap is the expensive stuff: guns at Ammu-Nation, car mods, and tattoos. Find shops on the map under Touchpad, then Style. You will almost certainly pass $100,000 while gearing up for the other trophies anyway.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Spend a total of $100,000 across all shop types — the total is cumulative across the whole game, so normal play already counts toward it. The fastest way to close the gap is the expensive stuff: guns at Ammu-Nation, car mods, and tattoos."
   },
   {
    "id": 54,
@@ -599,7 +856,12 @@
    "missable": false,
    "stage": 2,
    "guide": "Buy all 8 purchasable garages — $160,000 in total — through the Vice City Real Estate app on your phone, which installs after the Chapter 2 mission Daily Driver. The garages are Mitchel Auto Center ($4,000), 7th Avenue Garage ($12,000), Vela Rota Drive Garage ($24,000), Persistence Road Garage ($7,600), Wyatt Motors ($21,600), Bonita Court Garage ($34,000), Atlantic Court Garage ($40,000) and Store n' Bolt ($16,800). Each adds parking spots you need for registering vehicles, and robberies in Chapters 3-4 are the quickest way to earn the cash. The four story garages do not count.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Buy all 8 purchasable garages — $160,000 in total — through the Vice City Real Estate app on your phone, which installs after the Chapter 2 mission Daily Driver."
   },
   {
    "id": 55,
@@ -610,7 +872,12 @@
    "missable": false,
    "stage": 2,
    "guide": "Register 10 different vehicles in the Scooter Bros app, which installs on your phone after the Chapter 2 mission where you take a vehicle to Moses. Buy garages first (see Little Boxes), because each one adds the parking spots you need to register more vehicles. Then drive a stolen vehicle to Moses in Port Gellhorn, choose Respray and then Register — early on he only takes vehicles without trackers, and from Chapter 3 you can also register cars with standard trackers at any Pay 'n' Spray. Registration costs money, so use cheap low-end cars and bikes to keep it cheap.",
-   "sources": ["PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)", "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)", "Official trophy description (PlayStation)"]
+   "sources": [
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com)",
+    "Push Square — GTA 6 Trophy Guide & Roadmap (pushsquare.com)",
+    "Official trophy description (PlayStation)"
+   ],
+   "guide_short": "Register 10 different vehicles in the Scooter Bros app, which installs on your phone after the Chapter 2 mission where you take a vehicle to Moses."
   }
  ]
 }
