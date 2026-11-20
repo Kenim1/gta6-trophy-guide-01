@@ -3,23 +3,98 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GTA VI trophy checklist</title>
+<title>Leonida Trophy Guide — GTA VI: all 55 PS5 trophies</title>
+<meta name="description" content="Offline guide and tracker for all 55 Grand Theft Auto VI trophies on PS5: cited guides, roadmap to platinum, missable warnings, checklist with export and import.">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-  <h1>GTA VI trophy checklist</h1>
-  <p id="progress">0 of 55 earned</p>
+<header class="top">
+  <div class="brand">
+    <div class="mark" aria-hidden="true">VI</div>
+    <div>
+      <h1>Leonida Trophy Guide</h1>
+      <p class="sub">Grand Theft Auto VI &middot; PlayStation 5 &middot; 55 trophies &middot; 1 platinum / 2 gold / 6 silver / 46 bronze &middot; 0 online trophies</p>
+    </div>
+  </div>
+  <div class="progress" id="progressBox">
+    <div class="progress-text"><strong id="progressCount">0 / 55 earned</strong><span id="progressPct">0% to platinum</span></div>
+    <div class="bar" role="progressbar" aria-label="Trophies earned" aria-valuemin="0" aria-valuemax="55" aria-valuenow="0" id="progressBar"><div id="progressFill"></div></div>
+    <p class="progress-note" id="progressNote">Tick a trophy when you earn it — progress is saved in this browser.</p>
+  </div>
 </header>
-<div class="controls">
-  <label>Grade <select id="grade"><option value="all">All</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select></label>
-  <button id="export" type="button">Export progress</button>
-  <label class="import">Import progress <input id="import" type="file" accept="application/json"></label>
+<nav class="tabs" aria-label="Guide sections">
+  <a href="#/" id="tabChecklist">Checklist</a>
+  <a href="#/roadmap" id="tabRoadmap">Roadmap to Platinum</a>
+  <a href="#/missables" id="tabMissables">Missables <span class="warn-dot" aria-hidden="true">1</span></a>
+</nav>
+<div class="missable-banner" id="missableBanner" role="alert">
+  <strong>⚠ Only one trophy can be missed:</strong>
+  <a href="#/trophy/28">Positive Mental Attitude</a> — do Lucia&rsquo;s balcony meditation in Chapter 1, after the mission Down to Earth, before you leave Chapter 1. Every other trophy can be earned after the story in free-roam.
 </div>
-<table>
-  <thead><tr><th>Earned</th><th>Trophy</th><th>Grade</th><th>How to get it</th></tr></thead>
-  <tbody id="rows"></tbody>
-</table>
+<main id="main">
+  <section id="viewChecklist" class="view">
+    <div class="controls" aria-label="Checklist controls">
+      <label class="search">Search <input id="search" type="search" placeholder="Trophy, mission or keyword…" autocomplete="off"></label>
+      <label>Grade
+        <select id="gradeFilter">
+          <option value="all">All grades</option>
+          <option value="platinum">Platinum</option>
+          <option value="gold">Gold</option>
+          <option value="silver">Silver</option>
+          <option value="bronze">Bronze</option>
+        </select>
+      </label>
+      <label>Kind
+        <select id="kindFilter">
+          <option value="all">All kinds</option>
+          <option value="story">Story</option>
+          <option value="missable">Missable</option>
+          <option value="collectible">Collectibles</option>
+          <option value="activity">Activities</option>
+        </select>
+      </label>
+      <label>Show
+        <select id="earnedFilter">
+          <option value="all">All trophies</option>
+          <option value="remaining">Not earned yet</option>
+          <option value="earned">Earned only</option>
+        </select>
+      </label>
+      <label class="check"><input id="spoilerToggle" type="checkbox" checked> Hide story spoilers</label>
+      <button id="exportBtn" type="button">Export progress</button>
+      <label class="import">Import progress <input id="importInput" type="file" accept="application/json,.json"></label>
+    </div>
+    <p class="counts" id="countsLine"></p>
+    <div class="layout">
+      <div class="list-wrap">
+        <ul class="trophy-list" id="trophyList"></ul>
+        <p class="empty" id="emptyNote" hidden>No trophies match these filters.</p>
+      </div>
+      <aside class="detail" id="detailPane" aria-label="Trophy guide detail"></aside>
+    </div>
+  </section>
+  <section id="viewRoadmap" class="view" hidden>
+    <h2>Roadmap to the platinum — 3 stages, about 200–300 hours</h2>
+    <p class="lede">PowerPyx estimates about 200 hours to platinum; Push Square says 300 or more. This guide plans for 200–300. There are no difficulty settings, no mission gold medals, and no mission replay — so keep a manual save at the start and end of each chapter (15 manual slots, 1 autosave). Cheats disable trophies and saving.</p>
+    <div class="stages" id="roadmapStages"></div>
+  </section>
+  <section id="viewMissables" class="view" hidden>
+    <h2>Missable trophies — 1 of 55</h2>
+    <p class="lede">Both guides we checked agree: only one trophy is potentially missable, and even that one is unconfirmed as required. Everything else can be earned after the story in free-roam, including every quest giver, who becomes available again later.</p>
+    <div id="missablesList"></div>
+    <h3>Why nothing else is missable</h3>
+    <ul class="plain">
+      <li>Optional missions that disappear do not affect any trophy — there are far more than the 100 needed for the 100% checklist.</li>
+      <li>Quest givers who go quiet mid-story (Kenton, for example) return later; all trophy questlines stay open after the story.</li>
+      <li>Some fences and magazine collectibles in story buildings are lost, but neither affects a trophy — new fences unlock and the magazines also spawn elsewhere.</li>
+      <li>Time-sensitive quests with an hourglass icon fail if ignored, but none of them is tied to a trophy.</li>
+    </ul>
+  </section>
+</main>
+<footer>
+  <p>Official trophy names, descriptions and grades are PlayStation&rsquo;s. Every guide on this page is written in our own words for this entry; each trophy&rsquo;s detail pane names its sources (PowerPyx and Push Square trophy guides, plus the official list). This app is fully offline: it loads no network resources and stores progress only in your browser (localStorage). No Rockstar Games logo or artwork is used.</p>
+  <p>Sources checked for this guide: PowerPyx — GTA 6 Trophy Guide &amp; Roadmap (powerpyx.com) · Push Square — GTA 6 Trophy Guide &amp; Roadmap (pushsquare.com) · Official PS5 trophy list, frozen 2026-11-18.</p>
+</footer>
 <script type="module" src="app.js"></script>
 </body>
 </html>
